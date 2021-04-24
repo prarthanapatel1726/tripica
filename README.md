@@ -1,0 +1,2 @@
+# tripica
+trip planning application
